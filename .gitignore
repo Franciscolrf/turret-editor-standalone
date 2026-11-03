@@ -1,0 +1,12 @@
+/build/
+/dist/
+*.dll
+*.exe
+*.pdb
+*.obj
+*.ilk
+*.log
+*.ini
+.paidini_auth
+.DS_Store
+Thumbs.db
